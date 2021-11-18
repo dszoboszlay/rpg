@@ -4,11 +4,18 @@ _Lagharn, aki már nem kétbalkezes_ egy 22 éves, forrófejű ifjú a Nyaktör�
 
 * [Karakterlap](https://docs.google.com/spreadsheets/d/1fZAve-_dOdILUAb4BH9zP0DRYKZMdMKEywAZz3TSJPU/edit?usp=sharing)
 * Felszerelés
-    * fixme!
+    * Fejvadászkard (rejtve)
+    * Hosszúkard (övön)
+    * Pár váltás ruházat: kényelmesen bő ing, nadrág, puha talpú csizma, öv, utazóköpeny
+    * 2 db takaró
+    * Hátizsák
+    * Kulacs, tűzszerszám, kés
+    * 5 napi szárított élelem
+    * Valamennyi pénz egy erszényben
 
 # A Nyaktörők klánja
 
-A Nyaktörők egy kis létszámú, vándorló életmódot folytató klán, ami fejvadászattal és mellékesen rabszolga kereskedelemmel foglalkozik. Nevük egyrészt az általuk elkövetett gyilkosságokra utal, de arra is, hogy a tetthelyekről gyakran háztetőkön ugrálva, meredek sziklafalakon felkapaszkodva vagy más eféle nyaktörő mutatványokat bemutatva menekülnek. A klán híres ügyességéről, illetve azt beszélik, hogy még a csillagtalan éjszakában is úgy látnak, mint a macska.
+A Nyaktörők egy kis létszámú, vándorló életmódot folytató klán, ami fejvadászattal és mellékesen rabszolga kereskedelemmel foglalkozik. Nevük egyrészt az általuk elkövetett gyilkosságokra utal, de arra is, hogy a tetthelyekről gyakran háztetőkön ugrálva, meredek sziklafalakon felkapaszkodva vagy más efféle nyaktörő mutatványokat bemutatva menekülnek. A klán híres ügyességéről, illetve azt beszélik, hogy még a csillagtalan éjszakában is úgy látnak, mint a macska.
 
 Természetesen a Nyaktörőknek sok az ellenségük, így ha egyedül vagy kisebb csoportokban járnak, gyakran más klánok tagjainak adják ki magukat. A klánnak van egy titkos otthona is, a Steelwater folyó egyik apró, nehezen megközelíthető szigetén. Itt ébredtek fel a klán tagjai az álomból, és itt találtak rá az óvilági fegyverekre. Néhány idősebb klántag emlékezett valamennyire a harcművészetre, amit egykoron a szigeten űztek, és ezt tökéletesítették az elmúlt két évtizedben. De mostanában csak ritkán, a klán egyes nagyobb ünnepeire térnek vissza a szigetre. Az újvilágban jól megfizetik a fejvadászokat, de a megbízók messze, elszórtan akadnak csak.
 
@@ -28,8 +35,8 @@ Ha a sebet az ezen rituáléhoz tartozó éneket dúdolva kimossák, sárga lapp
 
 ## Mérgezés
 
-Hűrom patkány farkát keserűfű levelével főzz össze, majd dobj a lobogó vízbe valami mérgező állatot (pókot, kígyót stb.). A fegyver, amit a főzetbe mártanak, rettentő kínokal fog okozni. Ha az áldozat elvéti Egészség-próbáját, 3k6 FP-t sebződik, siker esetén 1k6 FP-t.
+Hórom patkány farkát keserűfű levelével főzz össze, majd dobj a lobogó vízbe valami mérgező állatot (pókot, kígyót stb.). A fegyver, amit a főzetbe mártanak, rettentő kínokkal fog okozni. Ha az áldozat elvéti Egészség-próbáját, 3k6 FP-t sebződik, siker esetén 1k6 FP-t.
 
 ## Köd
 
-Rakj tüzet, s mikor már nagy lánggal ég, dobj belé egy marék mohát és két marék galamb tollat. Ahogy a moha és a toll elhambadt, önts a tűzre egy üst vizet, amiben korábban negyed font zsírt felolvasztottál. A még füstölgő fahasábokat takard be földdel, és csak egy rést hagyj, ahola a füst távozhat. Ahogy a füst az égbe száll, fél órán belül sűrű köd kerekedik, ami az egész környéket ellepi.
+Rakj tüzet, s mikor már nagy lánggal ég, dobj belé egy marék mohát és két marék galamb tollat. Ahogy a moha és a toll elhamvadt, önts a tűzre egy üst vizet, amiben korábban negyed font zsírt felolvasztottál. A még füstölgő fahasábokat takard be földdel, és csak egy rést hagyj, ahol a a füst távozhat. Ahogy a füst az égbe száll, fél órán belül sűrű köd kerekedik, ami az egész környéket ellepi.
