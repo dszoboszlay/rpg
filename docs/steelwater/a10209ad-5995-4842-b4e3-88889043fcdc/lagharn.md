@@ -35,8 +35,8 @@ Ha a sebet az ezen rituáléhoz tartozó éneket dúdolva kimossák, sárga lapp
 
 ## Mérgezés
 
-Hórom patkány farkát keserűfű levelével főzz össze, majd dobj a lobogó vízbe valami mérgező állatot (pókot, kígyót stb.). A fegyver, amit a főzetbe mártanak, rettentő kínokkal fog okozni. Ha az áldozat elvéti Egészség-próbáját, 3k6 FP-t sebződik, siker esetén 1k6 FP-t.
+Hórom patkány farkát keserűfű levelével főzd össze, majd dobj a lobogó vízbe valami mérgező állatot (pókot, kígyót stb.). A fegyver, amit a főzetbe mártanak, rettentő kínokat fog okozni. Ha az áldozat elvéti Egészség-próbáját, 3k6 FP-t sebződik, siker esetén 1k6 FP-t.
 
 ## Köd
 
-Rakj tüzet, s mikor már nagy lánggal ég, dobj belé egy marék mohát és két marék galamb tollat. Ahogy a moha és a toll elhamvadt, önts a tűzre egy üst vizet, amiben korábban negyed font zsírt felolvasztottál. A még füstölgő fahasábokat takard be földdel, és csak egy rést hagyj, ahol a a füst távozhat. Ahogy a füst az égbe száll, fél órán belül sűrű köd kerekedik, ami az egész környéket ellepi.
+Rakj tüzet, s mikor már nagy lánggal ég, dobj belé egy marék mohát és két marék galamb tollat. Ahogy a moha és a toll elhamvadt, önts a tűzre egy üst vizet, amiben korábban negyed font zsírt felolvasztottál. A még füstölgő fahasábokat takard be földdel, és csak egy rést hagyj, ahol a füst távozhat. Ahogy a füst az égbe száll, fél órán belül sűrű köd kerekedik, ami az egész környéket ellepi.
